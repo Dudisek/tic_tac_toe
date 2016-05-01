@@ -1,0 +1,9 @@
+Tic Tac Toe Ruby Game
+Petr Duda
+
+How to play:
+1. bundle install
+2. bundle exec ruby tictactoe.rb
+
+Run a Test:
+rspec spec/game_spec.rb
